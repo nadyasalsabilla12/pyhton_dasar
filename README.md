@@ -1,6 +1,6 @@
 # Praktikum Python Dasar (Santrikoding)
 
-Repositori ini berisi latihan dan catatan praktikum **Python Dasar** berdasarkan modul pembelajaran Santrikoding untuk mata pelajaran Pemrograman Web / Perangkat Lunak (XI RPL).
+Repositori ini berisi latihan dan catatan praktikum **Python Dasar** berdasarkan modul pembelajaran Santrikoding 
 
 ## Materi yang Dipelajari
 1. Pengenalan & Instalasi Python

@@ -1,14 +1,14 @@
 # Apa itu Exception?
 # Membagi angka dengan nol
 angka = 10
-hasil = angka / 0
-print("Hasil:", hasil)
+# hasil = angka / 0
+print("Hasil:", )
 
 # Menangani Exception dengan try-except
 try:
     angka = 10
-    hasil = angka / 0
-    print("Hasil:", hasil)
+    # hasil = angka / 0
+    print("Hasil:", )
 except ZeroDivisionError:
     print("Error: Tidak bisa membagi dengan nol!")
 
